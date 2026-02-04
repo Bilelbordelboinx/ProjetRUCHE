@@ -1,0 +1,6 @@
+# On ignore les fichiers compilés (exécutables)
+v1/
+serveur_client
+ruche_acq_v1
+ruche_fille_env_v1
+*.o
